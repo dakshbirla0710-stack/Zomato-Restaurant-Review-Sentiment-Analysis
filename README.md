@@ -1,6 +1,5 @@
 # Zomato-Restaurant-Review-Sentiment-Analysis
 Machine learning and NLP project for sentiment classification of Zomato restaurant reviews using TF-IDF and classification algorithms.
-# Zomato Restaurant Review Sentiment Analysis
 
 ## Project Overview
 This project applies Machine Learning and Natural Language Processing (NLP) techniques to analyze Zomato restaurant reviews and classify customer sentiment as Positive or Negative.
